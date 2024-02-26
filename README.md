@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nishitha nilupul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishitha nilupul" height="30" width="40" /></a>
-<a href="https://fb.com/nishitha nilupul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishitha nilupul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.facebook.com/profile.php?id=100021891033671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.facebook.com/profile.php?id=100021891033671" height="30" width="40" /></a>
+<a href="https://fb.com/www.linkedin.com/in/nishitha-nilupul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.linkedin.com/in/nishitha-nilupul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
