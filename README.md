@@ -52,9 +52,9 @@
 
 <p align="center">
   Connect with me on Discord and see what I'm up to! 🎮<br>
-  <a href="https://discord.com/users/1107917072337481779" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1107917072337481779" alt="Discord Presence">
-  </a>
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1107917072337481779)](https://discord.com/users/1107917072337481779)
+  
 </p>
 
 <!-- 🎶 Vibing to Section -->
