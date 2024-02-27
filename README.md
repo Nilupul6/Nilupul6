@@ -50,12 +50,12 @@
 <!-- 📜 Other Section -->
 ## 📜 Other:
 
-<p align="center">
+<div align="center">
   Connect with me on Discord and see what I'm up to! 🎮<br>
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/1107917072337481779)](https://discord.com/users/1107917072337481779)
   
-</p>
+</div>
 
 <!-- 🎶 Vibing to Section -->
 ## 🎶 Vibing to:
