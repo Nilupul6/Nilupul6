@@ -46,3 +46,23 @@
 
 ### Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nilupul6&theme=monokai)](https://github.com/Nilupul6/github-profile-trophy)
+
+<!-- 📜 Other Section -->
+## 📜 Other:
+
+<p align="center">
+  Connect with me on Discord and see what I'm up to! 🎮<br>
+  <a href="https://discord.com/users/1107917072337481779" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1107917072337481779" alt="Discord Presence">
+  </a>
+</p>
+
+<!-- 🎶 Vibing to Section -->
+## 🎶 Vibing to:
+
+<p align="center">
+  Currently enjoying some tunes on Spotify. 🎧<br>
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315gwhrmwykd57g5njca7cbh3p6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Status">
+  </a>
+</p>
